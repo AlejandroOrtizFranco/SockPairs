@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\SockPairs\SocksConsole\bin\Debug\netcoreapp3.1\SocksConsole.exe
+C:\Users\User\source\repos\SockPairs\SocksConsole\bin\Debug\netcoreapp3.1\SocksConsole.deps.json
+C:\Users\User\source\repos\SockPairs\SocksConsole\bin\Debug\netcoreapp3.1\SocksConsole.runtimeconfig.json
+C:\Users\User\source\repos\SockPairs\SocksConsole\bin\Debug\netcoreapp3.1\SocksConsole.runtimeconfig.dev.json
+C:\Users\User\source\repos\SockPairs\SocksConsole\bin\Debug\netcoreapp3.1\SocksConsole.dll
+C:\Users\User\source\repos\SockPairs\SocksConsole\bin\Debug\netcoreapp3.1\SocksConsole.pdb
+C:\Users\User\source\repos\SockPairs\SocksConsole\obj\Debug\netcoreapp3.1\SocksConsole.csprojAssemblyReference.cache
+C:\Users\User\source\repos\SockPairs\SocksConsole\obj\Debug\netcoreapp3.1\SocksConsole.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\SockPairs\SocksConsole\obj\Debug\netcoreapp3.1\SocksConsole.AssemblyInfo.cs
+C:\Users\User\source\repos\SockPairs\SocksConsole\obj\Debug\netcoreapp3.1\SocksConsole.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SockPairs\SocksConsole\obj\Debug\netcoreapp3.1\SocksConsole.dll
+C:\Users\User\source\repos\SockPairs\SocksConsole\obj\Debug\netcoreapp3.1\SocksConsole.pdb
+C:\Users\User\source\repos\SockPairs\SocksConsole\obj\Debug\netcoreapp3.1\SocksConsole.genruntimeconfig.cache

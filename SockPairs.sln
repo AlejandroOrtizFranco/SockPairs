@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SockPairs", "SockPairs\SockPairs.csproj", "{C84B2072-FEF1-4421-87A6-7A46CD4688F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocksConsole", "SocksConsole\SocksConsole.csproj", "{7A736B43-7613-4E9A-B58D-94F3F7C3ED58}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C84B2072-FEF1-4421-87A6-7A46CD4688F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C84B2072-FEF1-4421-87A6-7A46CD4688F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C84B2072-FEF1-4421-87A6-7A46CD4688F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C84B2072-FEF1-4421-87A6-7A46CD4688F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A736B43-7613-4E9A-B58D-94F3F7C3ED58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A736B43-7613-4E9A-B58D-94F3F7C3ED58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A736B43-7613-4E9A-B58D-94F3F7C3ED58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A736B43-7613-4E9A-B58D-94F3F7C3ED58}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BDE50BD0-FD8C-4739-978C-46A567195FC3}
+	EndGlobalSection
+EndGlobal
